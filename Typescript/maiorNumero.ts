@@ -2,8 +2,6 @@ let a: number = 0;
 let b: number = 0;
 let c: number = 0;
 
-
-
 function determinaMaior(a: number, b: number, c: number): number {
     let maiorNumero: number;
 

@@ -4,5 +4,5 @@ if (olhosNasLaterais) {
     console.log(`PRESA`);
 }
 else {
-    console.log(`PREDADOR`);
+    console.log();
 }

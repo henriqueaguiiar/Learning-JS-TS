@@ -7,9 +7,10 @@ for(let i: number = 10; i >= contador; i--){
 }
 
 
-let contador2: number = 10;
+//forma com while menos convencional
+//let contador2: number = 10;
 
-while(contador >= 0){
-    console.log(contador);
-    contador--;
-}
+//while(contador >= 0){
+    //console.log(contador);
+    //contador--;
+//}

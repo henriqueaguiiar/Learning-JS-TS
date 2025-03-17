@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var nome5 = 'Henrique';
 let idade5 = 19;
 let mensagem = undefined;

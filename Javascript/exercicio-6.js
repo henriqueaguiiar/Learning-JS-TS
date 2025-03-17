@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const chuva = true;
 const nome6 = "Henrique";
 if (chuva) {

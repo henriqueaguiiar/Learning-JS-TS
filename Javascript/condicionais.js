@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const idadeMinima = 18;
 let idadeUsuario;
 const nomeUsuario = 'Henrique';

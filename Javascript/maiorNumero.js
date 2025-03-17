@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let a = 0;
 let b = 0;
 let c = 0;

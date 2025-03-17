@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const marcacaoRoleta = 45;
 const quantidadeCaixa = 257;
 const precoPassagem = 5.70;

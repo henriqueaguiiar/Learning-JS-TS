@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let pontosA = 3;
 let pontosB = 0;
 if (pontosA >= 25 && pontosA - pontosB >= 2) {

@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const frase3 = "O rato roeu a roupa do rei de Roma";
 console.log(`Length: ${frase3.length}`);
 console.log(`IndexOf: ${frase3.indexOf("rei")}`);

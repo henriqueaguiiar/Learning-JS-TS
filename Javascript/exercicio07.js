@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const comprimento = 10;
 const largura = 20;
 const rendimento = 40;

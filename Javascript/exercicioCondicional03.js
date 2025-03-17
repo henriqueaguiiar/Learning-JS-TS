@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const ano = 3000;
 if (ano <= 4000 || ano <= 476) {
     console.log(`ANTIGA`);

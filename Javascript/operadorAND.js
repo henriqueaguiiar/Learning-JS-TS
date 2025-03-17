@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const usuarioLogado = true;
 const permissaoAdmin = false;
 if (usuarioLogado && permissaoAdmin) {

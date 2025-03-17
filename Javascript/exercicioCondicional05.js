@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let cerveja = "ipa";
 let temperatura = 7;
 if (cerveja === "pilsen") {

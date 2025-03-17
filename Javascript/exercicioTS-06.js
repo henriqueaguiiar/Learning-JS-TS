@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const quantidadeCriancas = 20;
 const quantidadePreAdolescentes = 10;
 const quantidadeTotal = 100;

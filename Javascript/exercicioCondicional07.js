@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let media = 55;
 let frequencia = 90;
 let projetoFinal = 98;

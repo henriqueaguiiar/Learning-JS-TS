@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const precoPeca1 = 20;
 const precoPeca2 = 30;
 const precoPeca3 = 50;

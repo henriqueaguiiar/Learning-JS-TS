@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const listaDePaises = ['Brasil', 'Estados Unidos', 'Inglaterra', 'Japão', 'Canadá'];
+listaDePaises[listaDePaises.length] = 'Portual';
+listaDePaises.push('Alemanha');
+console.log(listaDePaises);
+listaDePaises[5] = 'Russia';
+console.log(listaDePaises);
+console.log(listaDePaises[listaDePaises.length - 1]);
+console.log(listaDePaises[1]);
+console.log(listaDePaises[2]);
+console.log(listaDePaises.length);

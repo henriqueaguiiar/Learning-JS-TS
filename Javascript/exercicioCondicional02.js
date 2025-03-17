@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const monstro1 = 34;
 const monstro2 = 55;
 if (monstro1 === monstro2) {

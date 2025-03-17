@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let numero = 10;
 let texto = numero.toString();
 console.log(`Conversao de number para string: ${numero.toString()}`);

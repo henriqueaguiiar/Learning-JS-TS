@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const nome4 = "Henrique";
 const idade3 = 26;
 const maiorIdade = idade3 >= 18;

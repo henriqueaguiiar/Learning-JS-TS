@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const maiorDeIdade = true;
 const possuiCarteiraDeMotorista = false;
 let messagem;

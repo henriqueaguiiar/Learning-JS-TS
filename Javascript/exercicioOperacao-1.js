@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let saldo = 0;
 let deposito = 0;
 let saque = 0;

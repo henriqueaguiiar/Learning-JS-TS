@@ -4,7 +4,6 @@ type Tpessoa = {
     senha: number
 }
 
-
 const fila: string[] = ['Guido', 'Henrique', 'João', 'Maria'];
 
 const pessoa: Tpessoa[] = [];
